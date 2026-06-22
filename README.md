@@ -22,7 +22,8 @@ Content-Based Filtering using CountVectorizer and Cosine Similarity.
 
 ## Screenshots
 
-(Add screenshots)
+<img width="1903" height="888" alt="image" src="https://github.com/user-attachments/assets/26e6b94f-4edb-4585-af56-bb4db353fd07" />
+
 
 ## Live Demo
 
