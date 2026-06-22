@@ -26,7 +26,7 @@ Content-Based Filtering using CountVectorizer and Cosine Similarity.
 
 ## Live Demo
 
-[(https://ai-movie-recommendation-system-pevfm8rqkedavgjpplddse.streamlit.app/)]
+[https://ai-movie-recommendation-system-pevfm8rqkedavgjpplddse.streamlit.app/]
 
 ## Author
 
